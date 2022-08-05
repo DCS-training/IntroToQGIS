@@ -1,2 +1,3 @@
-# IntroToQGIS
-Introduction to Visualising Data in QGIS 2.8
+# Introduction to Spatial Data in QGIS 
+
+
